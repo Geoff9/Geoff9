@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geoff9
-- 👀 I’m interested in creating an API for Square reader, so my local footy club can sell merchandise online.
-- 🌱 I’m not currently learning, but would like to learn more about programming and API's.
+- 👀 I’m interested in using Github to learn about Python Programming and Statistics using SAS.
+- 🌱 I’m am currently learning Statistics and a goal of learning about Data Science.
 - 💞️ I’m looking to collaborate on. New to Github and still learning about programming.
 - 📫 How to reach me ...
 
